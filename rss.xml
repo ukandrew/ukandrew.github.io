@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 15:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 15:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
-        <item>
-            <title><![CDATA[Introduction]]></title>
-            <guid>c5e24bcc98d940489b3737598c76cb9f</guid>
-            <pubDate>Thu, 07 Dec 2023 13:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[<p>In this blog I'll be providing my thoughts and insights into Argentine Tango. To that end what I am describing relates to my idea of the dance hence the title "My Tango". To kick things off I shall start with the 6 questions of journalism: Who, What, Why, Where, When, and How?</p>
-<h3 id="who">Who?</h3>
-<h3 id="what">What?</h3>
-<h3 id="why">Why?</h3>
-<h3 id="where">Where?</h3>
-<h3 id="when">When?</h3>
-<h3 id="how">How?</h3>
-]]></content:encoded>
-        </item>
     </channel>
 </rss>
